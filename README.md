@@ -1,5 +1,7 @@
 # Tesseract OCR API
 
+[![CI](https://github.com/george-polesel-axia/guia-api-tesseract/actions/workflows/ci.yml/badge.svg)](https://github.com/george-polesel-axia/guia-api-tesseract/actions/workflows/ci.yml)
+
 A small, production-minded REST API for extracting text from images with
 [Tesseract OCR](https://tesseract-ocr.github.io/tessdoc/) and the `pytesseract`
 Python wrapper.
